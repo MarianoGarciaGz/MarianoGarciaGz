@@ -1,19 +1,63 @@
-# 🙋‍♂️ Who is Mariano?
+# 🚀 Welcome to Mariano's GitHub Universe! 🚀
 
-Mariano García is a multi-talented creative force hailing from Mexico, known for his prowess in design, music production, and development.
+A multifaceted professional with expertise in **audio engineering**, **development**, and **design**, dedicated to crafting immersive digital experiences that resonate profoundly with users and clients.
 
-"Hello, world!" As a versatile professional with a background in design, audio engineering, development, and content creation, I am dedicated to curating captivating and accessible digital experiences that deeply resonate with users and clients. My expertise spans across the realms of website and app design, crafting music for diverse platforms including video games and commercials, as well as creating engaging video content.
+> _Share the knowledge! 🧠_
 
-## 🙇‍♂️ My skills
+<p align="center">
+    <img src="assets/img/timmy-turner-idk.gif" alt="Timmy Turner gif" width='300px'>
+</p>
 
-Proficient in a diverse array of technologies such as [[Python]], [[PHP]], [[HTML]], [[CSS]], and [[JavaScript]], I wield a variety of tools ranging from Figma and Adobe Photoshop for design to FL Studio, Vegas 18, and Visual Studio Code for music production and development.
+---
 
-I thrive on inventing innovative solutions and revel in the challenge of finding the most optimal ways to resolve problems, always pushing myself beyond the confines of my comfort zone. An ardent music producer, I am continuously driven to acquire new skills and confront fresh challenges.
+## About me 🦝
 
-### 🤷‍♂️ Soft skills
+I'm all about building the bridge between imagination and reality. From crafting stunning websites, developing user-friendly apps to creating captivating soundscapes for video games and commercials, and producing engaging video content, I'm here to weave magic through creativity and code.
 
-Embracing competition, fostering creativity, and exuding efficiency and productivity are integral facets of my work ethic. Equally comfortable as a team player, I excel in collaborative environments.
+### Things I like ✅
 
-### 🏋️‍♂️ Hard skills
+| Likes               | Dislikes                  |
+| ------------------- | ------------------------- |
+| 🎨 Design           | ❌ Redundancy             |
+| 🎧 Music Production | ❌ Inefficiency           |
+| 💻 Development      | ❌ Lack of Creativity     |
+| 🌮 Tacos            | ❌ Unnecessary Complexity |
+| 🌌 Innovation       | ❌ Arrogance              |
+| 🌟 Creativity       | ❌ Pessimism              |
+| ☝️ Teach            | ❌ Conformism             |
 
-My proficiency extends to website development, app creation, musical theory and composition, and sound design, representing the depth and breadth of my skill set.
+### 🛠️ My Toolbox
+
+Proficient in website and application design, skilled in creating music for various platforms such as video games and commercials, and adept in image and video editing.
+
+| Code    | Audio     | Video         | Design    |
+| ------- | --------- | ------------- | --------- |
+| VS Code | Fl Studio | Vegas         | Photoshop |
+| Git     | Audacity  | After Effects | Figma     |
+| Docker  | Ableton   | Premiere      | Krita     |
+
+### 🌌 My Passion
+
+I thrive in the realm of innovation and problem-solving. Constantly seeking new challenges, I'm an ardent music producer and an avid learner, always exploring and mastering new skills.
+
+### 🌟 What I Bring
+
+Competitive spirit, boundless creativity, unwavering efficiency, and a knack for collaboration define my professional DNA. I'm not just a team player; I'm an asset to any team.
+
+<p align="center">
+    <img src="assets/img/timmy-turner-angry.gif" alt="Timmy Turner gif" width='300px'>
+</p>
+
+## Visit my content 👽
+
+You can visit my content.
+
+### Like a developer 💻
+
+-   [Mariano García - YouTube](https://www.youtube.com/@marianogarciagz)
+-   [Portfolio web](https://marianogarciagz.github.io/)
+
+### Like a artist
+
+-   [Dowdy Programmer - YouTube](https://www.youtube.com/@DowdyProgrammer)
+-   [My \#1° place in the Harmor Challenge CONTEST](https://www.youtube.com/watch?v=ohIf1YLZq54)
