@@ -16,17 +16,13 @@ I'm all about building the bridge between imagination and reality. From crafting
 
 ### Things I like ✅
 
-| Likes               | Dislikes                  |
-| ------------------- | ------------------------- |
-| 🎨 Design           | ❌ Redundancy             |
-| 🎧 Music Production | ❌ Inefficiency           |
-| 💻 Development      | ❌ Lack of Creativity     |
-| 🌮 Tacos            | ❌ Unnecessary Complexity |
-| 🌌 Innovation       | ❌ Arrogance              |
-| 🌟 Creativity       | ❌ Pessimism              |
-| ☝️ Teach            | ❌ Conformism             |
+✅ Likes: 🎨 Design, 🎵 Music Production, 💻 Development, 🌮 Tacos, 🌌 Innovation, 🌟 Creativity.
 
-### 🛠️ My Toolbox
+❌ Dislikes: Redundancy, Inefficiency, Lack of Creativity, Unnecessary Complexity, Arrogance, Pessimism.
+
+---
+
+## 🛠️ My Toolbox
 
 Proficient in website and application design, skilled in creating music for various platforms such as video games and commercials, and adept in image and video editing.
 
@@ -36,9 +32,15 @@ Proficient in website and application design, skilled in creating music for vari
 | Git     | Audacity  | After Effects | Figma     |
 | Docker  | Ableton   | Premiere      | Krita     |
 
+And more tools...
+
+---
+
 ### 🌌 My Passion
 
 I thrive in the realm of innovation and problem-solving. Constantly seeking new challenges, I'm an ardent music producer and an avid learner, always exploring and mastering new skills.
+
+---
 
 ### 🌟 What I Bring
 
@@ -47,6 +49,8 @@ Competitive spirit, boundless creativity, unwavering efficiency, and a knack for
 <p align="center">
     <img src="assets/img/timmy-turner-angry.gif" alt="Timmy Turner gif" width='300px'>
 </p>
+
+---
 
 ## Visit my content 👽
 
