@@ -21,9 +21,11 @@ I'm all about building the bridge between imagination and reality. From crafting
 
 ### Things I like ✅
 
-✅ Likes: 🎨 Design, 🎵 Music Production, 💻 Development, 🌮 Tacos, 🌌 Innovation, 🌟 Creativity.
+Likes: 🎨 Design, 🎵 Music Production, 💻 Development, 🌮 Tacos, 🌌 Innovation, 🌟 Creativity.
 
-❌ Dislikes: Redundancy, Inefficiency, Lack of Creativity, Unnecessary Complexity, Arrogance, Pessimism.
+### Things I don't like ❌
+
+Redundancy, Inefficiency, Lack of Creativity, Unnecessary Complexity, Arrogance, Pessimism.
 
 ---
 
