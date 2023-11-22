@@ -9,7 +9,7 @@ A multifaceted professional with expertise in **audio engineering**, **developme
 </p>
 
 <p align="center">
-    <a align="center" href="https://marianogarciagz.github.io/">⭐ Watch my portfolio ⭐
+    <a align="center" href="https://marianogarciagz.github.io/">⭐ Watch my portfolio (working) ⭐
     </a>
 </p>
 
