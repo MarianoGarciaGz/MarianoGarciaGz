@@ -208,7 +208,3 @@ Proficient in website and application design, skilled in creating music for vari
 ### 🌟 What I Bring
 
 Competitive spirit, boundless creativity, unwavering efficiency, and a knack for collaboration define my professional DNA. I'm not just a team player; I'm an asset to any team.
-
-<p align="center">
-    <img src="assets/img/timmy-turner-angry.gif" alt="Timmy Turner gif" width='300px'>
-</p>
