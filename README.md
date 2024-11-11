@@ -4,12 +4,15 @@
     <img src="assets/img/MarianoGarciaGz.png" alt="MarianoGarciaGz Hero" width='100%'>
 </p>
 
-<p align="center">
-    <a class="btn btn-block js-profile-editable-edit-button" align="center" href="https://marianogarciagz.github.io/">⭐ Watch my portfolio ⭐
-    </a>
-</p>
+<a href="https://marianogarciagz.github.io" align="center" download>
+    <img src="assets/img/btn-portfolio.png" alt="Descargar archivo" style="cursor: pointer;">
+</a>
 
 A multifaceted professional with expertise in **audio engineering**, **development**, and **design**, dedicated to crafting immersive digital experiences that resonate profoundly with users and clients.
+
+<a href="https://marianogarciagz.github.io/assets/CV-ISIC-GARCIA-GUZMAN-MARIANO-ISMAEL.pdf" align="center" download>
+    <img src="assets/img/btn-cv.png" alt="Descargar archivo" style="cursor: pointer;">
+</a>
 
 > _Share the knowledge! 🧠_
 
