@@ -1,17 +1,17 @@
 # 🚀 Welcome to Mariano's GitHub! 🚀
 
 <p align="center">
-    <img src="assets/img/bg.jpg" alt="MarianoGarciaGz Hero" width='100%'>
+    <img src="assets/img/MarianoGarciaGz.png" alt="MarianoGarciaGz Hero" width='100%'>
+</p>
+
+<p align="center">
+    <a class="btn btn-block js-profile-editable-edit-button" align="center" href="https://marianogarciagz.github.io/">⭐ Watch my portfolio ⭐
+    </a>
 </p>
 
 A multifaceted professional with expertise in **audio engineering**, **development**, and **design**, dedicated to crafting immersive digital experiences that resonate profoundly with users and clients.
 
 > _Share the knowledge! 🧠_
-
-<p align="center">
-    <a align="center" href="https://marianogarciagz.github.io/">⭐ Watch my portfolio ⭐
-    </a>
-</p>
 
 ---
 
