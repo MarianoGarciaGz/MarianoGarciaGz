@@ -1,6 +1,6 @@
 # 🚀 Welcome to Mariano's GitHub! 🚀
 
-A multifaceted professional with expertise in **development**, **audio engineering**, , and **design**, dedicated to crafting immersive digital experiences that resonate profoundly with users and clients.
+A multifaceted professional with expertise in **development**, **music production** and **design**, dedicated to crafting immersive digital experiences that resonate profoundly with users and clients.
 
 <p align="center">
     <img src="assets/img/MarianoGarciaGz.webp" alt="MarianoGarciaGz Hero" width='100%'>
