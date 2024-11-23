@@ -10,8 +10,11 @@ A multifaceted professional with expertise in **development**, **audio engineeri
 <a href="https://marianogarciagz.github.io" download>
     <img src="assets/img/btn-portfolio.png" alt="Descargar archivo" style="cursor: pointer;">
 </a>
-<a href="https://marianogarciagz.github.io/assets/CV-ISIC-GARCIA-GUZMAN-MARIANO-ISMAEL.pdf" download>
-    <img src="assets/img/btn-cv.png" alt="Descargar archivo" style="cursor: pointer;">
+<a href="https://marianogarciagz.github.io/assets/CV_Mariano_Garcia_EN.pdf">
+    <img src="assets/img/btn-cv-en.png" alt="Descargar archivo" style="cursor: pointer;">
+</a>
+<a href="https://marianogarciagz.github.io/assets/CV_Mariano_Garcia_ES.pdf">
+    <img src="assets/img/btn-cv-es.png" alt="Descargar archivo" style="cursor: pointer;">
 </a>
 </p>
 
