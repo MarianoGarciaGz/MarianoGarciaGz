@@ -31,3 +31,9 @@ I'm all about building the bridge between imagination and reality. From crafting
 ## 🌟 What I Bring
 
 Competitive spirit, boundless creativity, unwavering efficiency, and a knack for collaboration define my professional DNA. I'm not just a team player; I'm an asset to any team.
+
+## 📊 Stats
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=MarianoGarciaGz&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
