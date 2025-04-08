@@ -18,15 +18,9 @@ A multifaceted professional with expertise in **development**, **music productio
 </a>
 </p>
 
-> _Share the knowledge! 🧠_
-
----
-
 ## About me 🦝
 
 I'm all about building the bridge between imagination and reality. From crafting stunning websites, developing user-friendly apps to creating captivating soundscapes for video games and commercials, and producing engaging video content, I'm here to weave magic through creativity and code.
-
----
 
 ## 🌟 What I Bring
 
